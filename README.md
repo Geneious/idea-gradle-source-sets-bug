@@ -1,3 +1,5 @@
+# idea-gradle-source-sets-bug
+
 Reproduction of the IDEA Gradle Source Sets bug.
 
 Steps to Reproduce:
