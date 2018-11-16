@@ -1,6 +1,6 @@
 # idea-gradle-source-sets-bug
 
-Reproduction of the IDEA Gradle Source Sets bug.
+Reproduction of the IDEA Gradle Source Sets bug https://youtrack.jetbrains.com/issue/IDEA-202337.
 
 Steps to Reproduce:
 
